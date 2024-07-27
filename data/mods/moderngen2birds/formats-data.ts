@@ -2,6 +2,9 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	altaria: {
 		tier: "Birds",
 	},
+	altariamega: {
+		tier: "Birds",
+	},
 	archeops: {
 		tier: "Birds",
 	},
@@ -21,6 +24,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Birds",
 	},
 	charizard: {
+		tier: "Birds",
+	},
+	charizardmegax: {
+		tier: "Birds",
+	},
+	charizardmegay: {
 		tier: "Birds",
 	},
 	chatot: {
