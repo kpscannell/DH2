@@ -4773,7 +4773,7 @@ export const Formats: FormatList = [
 		],
 		mod: 'moderngen2',
 		searchShow: false,
-		ruleset: ['Standard', 'Sleep Moves Clause', '+No Ability', '-All Abilities'],
+		ruleset: ['Standard NatDex', 'Sleep Moves Clause', '+No Ability', '-All Abilities'],
 		banlist: ['AG', 'Uber', 'Fake Out', 'Shell Smash', 'Last Respects', 'Baton Pass', 'Alakazite', 'Soul Dew'],
 	},
 	{
